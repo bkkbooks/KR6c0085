@@ -1,0 +1,538 @@
+canonical_identifier: bkk:krp/KR6c0085/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0085/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經石注
+  identifiers:
+    krp: KR6c0085
+    cbeta: X25n0497
+    cbeta_old_id: X25n0497
+    authorityid: CA0001709
+    json_key: X0497
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0497.xml
+    old_id: X25n0497
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0085_000-X.yaml, hash: 'sha256:b89f23160b8a9005b5c14fee906e004bff0173e595d5948d2c500fde88de82b4'}
+  - {seq: 1, filename: KR6c0085_001-X.yaml, hash: 'sha256:8578e2d96b47077c8a7ac2de3540842e3e8e86a91c8ed1a054987ddb3b192b38'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0085_000-X.markers.yaml, hash: 'sha256:f8b33803a775e7b0289a798f62cca3211d516df6a74803a8accd409fc9b700f3'}
+  - {seq: 1, role: markers, filename: assets/KR6c0085_001-X.markers.yaml, hash: 'sha256:2387ede570f299046a10aab8e67dd84e9d595ba0c297c9189ad028042fa50900'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 497-A 金剛經石注自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-2
+    span:
+    - front
+    - 351
+    - 351
+  label: No. 497-B 金剛經石註自敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-3
+    span:
+    - front
+    - 1090
+    - 1090
+  label: 金剛經石註凡例十條
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-4
+    span:
+    - front
+    - 1920
+    - 1920
+  label: No. 497-C 金剛經辨異
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-5
+    span:
+    - front
+    - 2221
+    - 2221
+  label: No. 497-D 金剛經闢妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-6
+    span:
+    - front
+    - 2236
+    - 2236
+  label: 何必靜室
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-7
+    span:
+    - front
+    - 2310
+    - 2310
+  label: 何必出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-8
+    span:
+    - front
+    - 2413
+    - 2413
+  label: 何必清晨
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-9
+    span:
+    - front
+    - 2452
+    - 2452
+  label: 何必啟請
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-10
+    span:
+    - front
+    - 2536
+    - 2536
+  label: 何必設像
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-11
+    span:
+    - front
+    - 2618
+    - 2618
+  label: 何必敲魚
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-12
+    span:
+    - front
+    - 2638
+    - 2638
+  label: 何必急誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-13
+    span:
+    - front
+    - 2722
+    - 2722
+  label: 何必跪諷
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-14
+    span:
+    - front
+    - 2745
+    - 2745
+  label: 何必梵本
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-15
+    span:
+    - front
+    - 2802
+    - 2802
+  label: 何必全部
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-16
+    span:
+    - front
+    - 2972
+    - 2972
+  label: No. 497-E 金剛經總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0085_X_000-mulu-17
+    span:
+    - front
+    - 3261
+    - 3261
+  label: No. 497-F 金剛經讀法十條
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 27699
+  label: 金剛經石註卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-2
+    span:
+    - body
+    - 597
+    - 597
+  label: 法會因由分第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-3
+    span:
+    - body
+    - 1094
+    - 1094
+  label: 善現起請分第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-4
+    span:
+    - body
+    - 2003
+    - 2003
+  label: 大乘正宗分第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-5
+    span:
+    - body
+    - 3220
+    - 3220
+  label: 妙行無住分第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-6
+    span:
+    - body
+    - 3936
+    - 3936
+  label: 如理實見分第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-7
+    span:
+    - body
+    - 4438
+    - 4438
+  label: 正信希有分第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-8
+    span:
+    - body
+    - 5714
+    - 5714
+  label: 無得無說分第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-9
+    span:
+    - body
+    - 6556
+    - 6556
+  label: 依法出生分第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-10
+    span:
+    - body
+    - 7351
+    - 7351
+  label: 一切無相分第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-11
+    span:
+    - body
+    - 8911
+    - 8911
+  label: 莊嚴淨土分第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-12
+    span:
+    - body
+    - 10081
+    - 10081
+  label: 無為福勝分第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-13
+    span:
+    - body
+    - 10610
+    - 10610
+  label: 尊重正教分第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-14
+    span:
+    - body
+    - 11090
+    - 11090
+  label: 如法受持分第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-15
+    span:
+    - body
+    - 12290
+    - 12290
+  label: 離相寂如分第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-16
+    span:
+    - body
+    - 15436
+    - 15436
+  label: 持經功德分第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-17
+    span:
+    - body
+    - 16609
+    - 16609
+  label: 能淨業障分第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-18
+    span:
+    - body
+    - 17549
+    - 17549
+  label: 究竟無我分第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-19
+    span:
+    - body
+    - 19604
+    - 19604
+  label: 一體同觀分第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-20
+    span:
+    - body
+    - 20628
+    - 20628
+  label: 法界通化分第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-21
+    span:
+    - body
+    - 20951
+    - 20951
+  label: 離色離相分第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-22
+    span:
+    - body
+    - 21439
+    - 21439
+  label: 非說所說分第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-23
+    span:
+    - body
+    - 22040
+    - 22040
+  label: 無法可得分第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-24
+    span:
+    - body
+    - 22273
+    - 22273
+  label: 淨心行善分第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-25
+    span:
+    - body
+    - 22749
+    - 22749
+  label: 福智無比分第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-26
+    span:
+    - body
+    - 22999
+    - 22999
+  label: 化無所化分第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-27
+    span:
+    - body
+    - 23528
+    - 23528
+  label: 法身非相分第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-28
+    span:
+    - body
+    - 24108
+    - 24108
+  label: 無斷無滅分第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-29
+    span:
+    - body
+    - 24561
+    - 24561
+  label: 不受不貪分第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-30
+    span:
+    - body
+    - 25015
+    - 25015
+  label: 威儀寂靜分第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-31
+    span:
+    - body
+    - 25422
+    - 25422
+  label: 一合理相分第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-32
+    span:
+    - body
+    - 26020
+    - 26020
+  label: 知見不生分第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0085_X_001-mulu-33
+    span:
+    - body
+    - 26616
+    - 26616
+  label: 應化非真分第三十二
+  type: mulu
+  level: 1
+hash: sha256:4342f798fe2f345f977b8aab538c299d43702e8237fa17dd9097c35876ad6ae7
