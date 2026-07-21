@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0085_000.yaml, hash: 'sha256:8fa77b75bff92a908980d5012ac7844ad59f6d7e82bea1d6dc65df3e4fa4c35d'}
+  - {seq: 0, filename: KR6c0085_000.yaml, hash: 'sha256:68f01118ea9c848db63947f9e405a63142884e2aaea3cc32649de29edd0127e7'}
   - {seq: 1, filename: KR6c0085_001.yaml, hash: 'sha256:6edb60749980353c37eaad3ca4822280b210a67f5b46e6e98ca3cfe0d8aca3ae'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0085_000.markers.yaml, hash: 'sha256:5c714f61505f4d6883bb6a285e020db0639e6d776620871d6936859838646445'}
+  - {seq: 0, role: markers, filename: assets/KR6c0085_000.markers.yaml, hash: 'sha256:09f7d9760188515bfe7a743e214daf4fbfa28678b2f93926a20e49ed85191ebd'}
   - {seq: 1, role: markers, filename: assets/KR6c0085_001.markers.yaml, hash: 'sha256:ac42fb77ea422135de9de2a1aa2ce3faddb7833c59c977965f48471877cd7e01'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 497-A 金剛經石注自序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-2
     span:
-    - front
+    - body
     - 351
     - 351
   label: No. 497-B 金剛經石註自敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-3
     span:
-    - front
+    - body
     - 1090
     - 1090
   label: 金剛經石註凡例十條
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-4
     span:
-    - front
+    - body
     - 1920
     - 1920
   label: No. 497-C 金剛經辨異
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-5
     span:
-    - front
+    - body
     - 2221
     - 2221
   label: No. 497-D 金剛經闢妄
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-6
     span:
-    - front
+    - body
     - 2236
     - 2236
   label: 何必靜室
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-7
     span:
-    - front
+    - body
     - 2310
     - 2310
   label: 何必出家
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-8
     span:
-    - front
+    - body
     - 2413
     - 2413
   label: 何必清晨
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-9
     span:
-    - front
+    - body
     - 2452
     - 2452
   label: 何必啟請
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-10
     span:
-    - front
+    - body
     - 2536
     - 2536
   label: 何必設像
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-11
     span:
-    - front
+    - body
     - 2618
     - 2618
   label: 何必敲魚
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-12
     span:
-    - front
+    - body
     - 2638
     - 2638
   label: 何必急誦
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-13
     span:
-    - front
+    - body
     - 2722
     - 2722
   label: 何必跪諷
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-14
     span:
-    - front
+    - body
     - 2745
     - 2745
   label: 何必梵本
@@ -171,7 +171,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-15
     span:
-    - front
+    - body
     - 2802
     - 2802
   label: 何必全部
@@ -181,7 +181,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-16
     span:
-    - front
+    - body
     - 2972
     - 2972
   label: No. 497-E 金剛經總論
@@ -191,7 +191,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-17
     span:
-    - front
+    - body
     - 3261
     - 3261
   label: No. 497-F 金剛經讀法十條
@@ -537,7 +537,7 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:2dac1c2f6a20c1583e29ef082fcba08f7763f1b83c1a9992e8f559ef131efa2e
+hash: sha256:b7e4e8c5118e3c9365f41a5ae64bade7870dab77fee3cd3cd5bb596deede9431
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

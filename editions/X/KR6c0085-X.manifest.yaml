@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0085_000-X.yaml, hash: 'sha256:b89f23160b8a9005b5c14fee906e004bff0173e595d5948d2c500fde88de82b4'}
+  - {seq: 0, filename: KR6c0085_000-X.yaml, hash: 'sha256:dbfe4405b02b176dc35823c5989c0e4af918752030d9ac645a2952c7f9777cc7'}
   - {seq: 1, filename: KR6c0085_001-X.yaml, hash: 'sha256:8578e2d96b47077c8a7ac2de3540842e3e8e86a91c8ed1a054987ddb3b192b38'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0085_000-X.markers.yaml, hash: 'sha256:f8b33803a775e7b0289a798f62cca3211d516df6a74803a8accd409fc9b700f3'}
+  - {seq: 0, role: markers, filename: assets/KR6c0085_000-X.markers.yaml, hash: 'sha256:9b7512a7304b2565e273f86f2aac74fd58f4f4947773c73ad775c222e3d63176'}
   - {seq: 1, role: markers, filename: assets/KR6c0085_001-X.markers.yaml, hash: 'sha256:2387ede570f299046a10aab8e67dd84e9d595ba0c297c9189ad028042fa50900'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 497-A 金剛經石注自序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-2
     span:
-    - front
+    - body
     - 351
     - 351
   label: No. 497-B 金剛經石註自敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-3
     span:
-    - front
+    - body
     - 1090
     - 1090
   label: 金剛經石註凡例十條
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-4
     span:
-    - front
+    - body
     - 1920
     - 1920
   label: No. 497-C 金剛經辨異
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-5
     span:
-    - front
+    - body
     - 2221
     - 2221
   label: No. 497-D 金剛經闢妄
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-6
     span:
-    - front
+    - body
     - 2236
     - 2236
   label: 何必靜室
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-7
     span:
-    - front
+    - body
     - 2310
     - 2310
   label: 何必出家
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-8
     span:
-    - front
+    - body
     - 2413
     - 2413
   label: 何必清晨
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-9
     span:
-    - front
+    - body
     - 2452
     - 2452
   label: 何必啟請
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-10
     span:
-    - front
+    - body
     - 2536
     - 2536
   label: 何必設像
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-11
     span:
-    - front
+    - body
     - 2618
     - 2618
   label: 何必敲魚
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-12
     span:
-    - front
+    - body
     - 2638
     - 2638
   label: 何必急誦
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-13
     span:
-    - front
+    - body
     - 2722
     - 2722
   label: 何必跪諷
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-14
     span:
-    - front
+    - body
     - 2745
     - 2745
   label: 何必梵本
@@ -169,7 +169,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-15
     span:
-    - front
+    - body
     - 2802
     - 2802
   label: 何必全部
@@ -179,7 +179,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-16
     span:
-    - front
+    - body
     - 2972
     - 2972
   label: No. 497-E 金剛經總論
@@ -189,7 +189,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0085_X_000-mulu-17
     span:
-    - front
+    - body
     - 3261
     - 3261
   label: No. 497-F 金剛經讀法十條
@@ -535,4 +535,4 @@ table_of_contents:
   label: 應化非真分第三十二
   type: mulu
   level: 1
-hash: sha256:4342f798fe2f345f977b8aab538c299d43702e8237fa17dd9097c35876ad6ae7
+hash: sha256:d0779cc8308a7994369d3aa9f34209e819fd3994caf4511e328acb48b9b4e9a6
